@@ -1,1 +1,1 @@
-GIF89a/*{{2*2}}//;
+GIF89a/*<script>alert('XSS')</script>//;
