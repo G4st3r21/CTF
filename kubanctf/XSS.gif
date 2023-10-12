@@ -1,2 +1,1 @@
-GIF89a/*<script>console.log("Test XSS from the search bar of page XYZ\n".concat(document.domain).concat("\n").concat(window.origin))</script>
-//;
+GIF89a/*{{2*2}}//;
